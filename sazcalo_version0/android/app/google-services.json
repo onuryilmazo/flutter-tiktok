@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "548352539701",
+    "project_id": "sazcaloversion0",
+    "storage_bucket": "sazcaloversion0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548352539701:android:d2d3ad79d863bdae22c57c",
+        "android_client_info": {
+          "package_name": "com.example.sazcalo_version0"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtPVtrne-lAyHzA20ZMbPJgfTd_teH7D0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
